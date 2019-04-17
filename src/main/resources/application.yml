@@ -18,4 +18,4 @@ spring:
           uri: https://github.com/gao2691714/config-repo
           basedir: /IdeaProjects/springCloudDemo/config_service_demo/basedir
 #          username: gao2691714
-#          password: gao2473666
+#          password: **********
